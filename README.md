@@ -1,5 +1,7 @@
 # Build Week Scaffolding
 
+Here is the link to my app: https://anytime--fitness.herokuapp.com/
+
 First READ these instructions to get an overview of what's involved in scaffolding an Express + PostgreSQL app that deploys to Heroku.
 
 Then watch [this video tutorial](https://bloomtech-1.wistia.com/medias/2625bl7sei) for a detailed demonstration of setting up a project, using a Windows dev machine. Other operating systems will require some adjustments.
