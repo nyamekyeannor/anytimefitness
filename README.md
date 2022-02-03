@@ -1,6 +1,7 @@
 # Build Week Scaffolding
 
 Here is the link to my app: https://anytime--fitness.herokuapp.com/
+Here is my local host: http://localhost:9000/api/users
 
 First READ these instructions to get an overview of what's involved in scaffolding an Express + PostgreSQL app that deploys to Heroku.
 
